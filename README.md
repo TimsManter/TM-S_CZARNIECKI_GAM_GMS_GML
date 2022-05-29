@@ -1,3 +1,7 @@
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# Repo moved here 👉 https://github.com/SelfRef/czarniecki-game
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 # Czarniecki - The Game
 
 * @Author: TimsManter
